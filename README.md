@@ -1,3 +1,4 @@
 # webapp_slowstart
 
-`mvn liberty:dev`
+* `mvn liberty:dev`
+* `mvn package`
