@@ -1,0 +1,6 @@
+<server>
+  <featureManager>
+    <feature>microProfile-3.3</feature>
+  </featureManager>
+  <variable name="com.example.startDelayMilliseconds" value="1000" />
+</server>
